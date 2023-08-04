@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MiniLearn - Bite-sized Learning</title>
+</head>
+<body>
+    <h1>Welcome to MiniLearn - Bite-sized Learning</h1>
+    <p>Choose from our selection of mini-courses:</p>
+    <ul>
+        {% for course in courses %}
+        <li>
+            <a href="/course/{{ course.id }}">{{ course.title }}</a> - {{ course.duration }}
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
