@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ course.title }}</title>
+</head>
+<body>
+    <h1>{{ course.title }}</h1>
+    <p>Duration: {{ course.duration }}</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+    <br>
+    <h2>Quiz</h2>
+    <form action="/submit_quiz" method="post">
+        <p>Question 1: What is {{ course.title }}?</p>
+        <input type="radio" name="q1" value="option1"> Option 1<br>
+        <input type="radio" name="q1" value="option2"> Option 2<br>
+        <input type="radio" name="q1" value="option3"> Option 3<br>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
