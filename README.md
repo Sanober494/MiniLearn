@@ -2,7 +2,7 @@
 
 MiniLearn is an innovative EdTech project that aims to revolutionize the way people access learning opportunities. It offers bite-sized, self-paced courses on a variety of topics, making education more accessible and flexible for individuals with busy schedules. MiniLearn's user-friendly platform allows learners to choose from a curated collection of mini-courses, each designed to deliver a specific skill or concept in just a few minutes. With engaging video lessons and interactive quizzes, MiniLearn creates an enjoyable and effective learning experience. By providing short, focused learning modules, MiniLearn empowers learners to explore new interests, acquire practical skills, and grow their knowledge at their own pace, opening up a world of learning possibilities for everyone.
 
-### Note:
+### Note:-
 Hey there! So, when you go ahead and type "http://localhost:5000/" right into your web browser, guess what? You'll be greeted with the awesome MiniLearn landing page! There, you'll find an exciting list of mini-courses, just waiting for you to explore. Now, when you click on any of those intriguing courses, guess what happens next? You're taken to a course page where you'll find an exciting video to watch and even a quiz to challenge your knowledge!
 
 Oh, and one more thing, that video you see? It's just a placeholder for now, used only for demonstration purposes. So, feel free to replace it with any real YouTube video URL or cool embed code to make your MiniLearn experience even more incredible! You've got the freedom to customize it as you wish, so dive right in and make the most of your learning journey with MiniLearn! Happy exploring!
