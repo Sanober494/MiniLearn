@@ -3,7 +3,6 @@
 from flask import Flask, render_template, request, redirect
 
 app = Flask(__name__)
-
 # Course data
 courses = [
     {'id': 1, 'title': 'Introduction to Python', 'duration': '5 mins'},
